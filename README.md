@@ -1,4 +1,4 @@
 blogger_tutorial
 ================
 
-Simple blog system from jumpstartlab.com. For theodinproject.com
+Simple blog system in Ruby on Rails from jumpstartlab.com. For theodinproject.com
